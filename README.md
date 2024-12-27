@@ -19,7 +19,7 @@ $ pkg install git
 
 $ pkg install figlet
 
-$ git clone https://github.com/Whiteblue143/GAMKERS-DDOS
+$ git clone https://github.com/Whiteblue143/GAMKERS-DDOS.git
 
 $ cd GAMKERS-DDOS
 
